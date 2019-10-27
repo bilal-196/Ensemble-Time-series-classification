@@ -8,5 +8,5 @@ http://zahraa-abdallah.com/wp-content/uploads/2019/10/Co_eye__SI_DS_.pdf
 - Co-eye Jupyter notebook: implementation of Co-eye algorithm descriped in the paper
 
 ![alt text](https://github.com/zabdallah/Co-eye/blob/master/Algorithm/Alg1.png)
-![alt text](https://github.com/zabdallah/Co-eye/blob/master/Algorithm/Alg2.png)
+![alt text](https://github.com/zabdallah/Co-eye/blob/master/Algorithm/alg2.png)
 ![alt text](https://github.com/zabdallah/Co-eye/blob/master/Algorithm/Alg3.png)
