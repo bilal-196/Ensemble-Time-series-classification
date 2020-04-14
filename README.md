@@ -5,7 +5,6 @@ This is an implementation of Co-eye Algorithm for Time Series Classification. Th
 
 - UCR folder: contains datasets, imported from UCRarchive https://www.cs.ucr.edu/~eamonn/time_series_data_2018/
 - Co-eye.ipynb: implementation of Co-eye algorithm in Jupyter notebook with output displayed.
-- Co-eye.py: Same code in py format.
 
 
 Require Python 3.6
