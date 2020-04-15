@@ -1,5 +1,5 @@
 # Co-eye
-This is an implementation of Co-eye Algorithm for Time Series Classification. The paper is under review and can be found at https://arxiv.org/abs/2004.06668.
+This is an implementation of Co-eye Algorithm for Time Series Classification. The paper is under review and can be found at https://arxiv.org/abs/2004.06668 to appear in Machine Learning, Springer
 
 # Description
 
