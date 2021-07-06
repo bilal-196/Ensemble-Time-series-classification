@@ -22,7 +22,8 @@ Abdallah, Z.S., Gaber, M.M. Co-eye: a multi-resolution ensemble classifier for s
 
 ![alt text](https://github.com/zabdallah/Co-eye/blob/master/Algorithm/Alg3.png)
 
-# Note
-Require Python 3.6
-pyts https://pyts.readthedocs.io/en/stable/
+# Requirements: 
+- Python 3.6
+- pyts https://pyts.readthedocs.io/en/stable/
+- imblearn https://pypi.org/project/imblearn/
 
