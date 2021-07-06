@@ -12,7 +12,7 @@ This is an implementation of Co-eye Algorithm for Time Series Classification. Yo
 
 Abdallah, Z.S., Gaber, M.M. Co-eye: a multi-resolution ensemble classifier for symbolically approximated time series. Mach Learn 109, 2029–2061 (2020). https://doi.org/10.1007/s10994-020-05887-3
 
-# Algorithm overview: 
+# Algorithm overview
 
 ![alt text](https://github.com/zabdallah/Co-eye/blob/master/Algorithm/Alg1.png)
 
