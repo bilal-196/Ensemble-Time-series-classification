@@ -1,4 +1,4 @@
-# Co-eye
+# Co-eye: a multi-resolution ensemble classifier for symbolically approximated time series
 This is an implementation of Co-eye Algorithm for Time Series Classification. You can access the paper from https://link.springer.com/article/10.1007/s10994-020-05887-3
 
 
