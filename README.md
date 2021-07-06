@@ -9,8 +9,11 @@ This is an implementation of Co-eye Algorithm for Time Series Classification. Yo
 
 
 # Citation
+if you use co-eye in a scientific publication, we would appreciate citations to the following paper:
 
 Abdallah, Z.S., Gaber, M.M. Co-eye: a multi-resolution ensemble classifier for symbolically approximated time series. Mach Learn 109, 2029–2061 (2020). https://doi.org/10.1007/s10994-020-05887-3
+
+
 
 # Algorithm overview
 
