@@ -24,4 +24,5 @@ Abdallah, Z.S., Gaber, M.M. Co-eye: a multi-resolution ensemble classifier for s
 
 # Note
 Require Python 3.6
+pyts https://pyts.readthedocs.io/en/stable/
 
