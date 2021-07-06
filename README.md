@@ -10,19 +10,9 @@ This is an implementation of Co-eye Algorithm for Time Series Classification. Yo
 
 # Citation
 
-@article{abdallah2020co,
-  title={Co-eye: a multi-resolution ensemble classifier for symbolically approximated time series},
-  author={Abdallah, Zahraa S and Gaber, Mohamed Medhat},
-  journal={Machine Learning},
-  volume={109},
-  number={11},
-  pages={2029--2061},
-  year={2020},
-  publisher={Springer}
-}
+Abdallah, Z.S., Gaber, M.M. Co-eye: a multi-resolution ensemble classifier for symbolically approximated time series. Mach Learn 109, 2029–2061 (2020). https://doi.org/10.1007/s10994-020-05887-3
 
-Require Python 3.6
-
+# Algorithm overview: 
 
 ![alt text](https://github.com/zabdallah/Co-eye/blob/master/Algorithm/Alg1.png)
 
@@ -31,3 +21,7 @@ Require Python 3.6
 
 
 ![alt text](https://github.com/zabdallah/Co-eye/blob/master/Algorithm/Alg3.png)
+
+# Note
+Require Python 3.6
+
